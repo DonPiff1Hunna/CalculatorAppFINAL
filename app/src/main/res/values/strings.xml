@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="calculate">Calculate</string>
+    <string name="valX">Value X</string>
+    <string name="valY">Value Y</string>
+    <string name="add">Add Values</string>
+    <string name="multiply">Multiply Values</string>
+    <string name="answer">Answer</string>
+</resources>
